@@ -1,0 +1,265 @@
+[
+  {
+    "name": "altgraph",
+    "version": "0.17.5",
+    "file": "altgraph-0.17.5-py2.py3-none-any.whl",
+    "sha256": "f3a22400bce1b0c701683820ac4f3b159cd301acab067c51c653e06961600597",
+    "requires_dist": []
+  },
+  {
+    "name": "argostranslate",
+    "version": "1.11.0",
+    "file": "argostranslate-1.11.0-py3-none-any.whl",
+    "sha256": "a89b42d82f40843900338f9ac60d4c82fda590b6898247f5d0c15d46731ca7df",
+    "requires_dist": [
+      "ctranslate2 (<5,>=4.0)",
+      "minisbd",
+      "packaging",
+      "sacremoses (<0.2,>=0.0.53)",
+      "sentencepiece (<0.3,>=0.2.0)",
+      "spacy",
+      "stanza (==1.10.1)"
+    ]
+  },
+  {
+    "name": "click",
+    "version": "8.5.0",
+    "file": "click-8.5.0-py3-none-any.whl",
+    "sha256": "255bc9599cf7748b4b1a446ccc735421bd08a2ae529a8b88597d3de5664ee360",
+    "requires_dist": []
+  },
+  {
+    "name": "cloudpickle",
+    "version": "3.1.2",
+    "file": "cloudpickle-3.1.2-py3-none-any.whl",
+    "sha256": "9acb47f6afd73f60dc1df93bb801b472f05ff42fa6c84167d25cb206be1fbf4a",
+    "requires_dist": []
+  },
+  {
+    "name": "colorama",
+    "version": "0.4.6",
+    "file": "colorama-0.4.6-py2.py3-none-any.whl",
+    "sha256": "4f1d9991f5acc0ca119f9d443620b77f9d6b33703e51011c16baf57afb285fc6",
+    "requires_dist": []
+  },
+  {
+    "name": "ctranslate2",
+    "version": "4.8.3",
+    "file": "ctranslate2-4.8.3-cp312-cp312-win_amd64.whl",
+    "sha256": "b5daf0758d522a422c76e53eb02ce9f42465a9aba938a86b27249fb5db2571b9",
+    "requires_dist": [
+      "numpy",
+      "pyyaml<7,>=5.3"
+    ]
+  },
+  {
+    "name": "joblib",
+    "version": "1.6.0",
+    "file": "joblib-1.6.0-py3-none-any.whl",
+    "sha256": "3dbbf9f6e4b592a2357b854608e980fe6390d131d7a82f011a377ef2ebef7aba",
+    "requires_dist": [
+      "cloudpickle>=3.0",
+      "distributed; extra == \"test\"",
+      "lz4; extra == \"test\"",
+      "numpy; extra == \"test\"",
+      "memory_profiler; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "pytest-asyncio; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-run-parallel; extra == \"test\"",
+      "pytest-timeout; extra == \"test\"",
+      "threadpoolctl; extra == \"test\"",
+      "distributed; extra == \"docs\"",
+      "lz4; extra == \"docs\"",
+      "numpy; extra == \"docs\"",
+      "numpydoc; extra == \"docs\"",
+      "matplotlib; extra == \"docs\"",
+      "pandas; extra == \"docs\"",
+      "psutil; extra == \"docs\"",
+      "sphinx; extra == \"docs\"",
+      "pydata-sphinx-theme; extra == \"docs\"",
+      "sphinx-gallery; extra == \"docs\"",
+      "sphinx-copybutton; extra == \"docs\"",
+      "sphinx-design; extra == \"docs\"",
+      "tqdm; extra == \"docs\""
+    ]
+  },
+  {
+    "name": "numpy",
+    "version": "2.5.4",
+    "file": "numpy-2.5.4-cp312-cp312-win_amd64.whl",
+    "sha256": "a7b1b6353e36a7e50de2973a38d705c88ee93adcf120673cee7f45a4a3fa223a",
+    "requires_dist": []
+  },
+  {
+    "name": "packaging",
+    "version": "26.3",
+    "file": "packaging-26.3-py3-none-any.whl",
+    "sha256": "d7193f7c8e4e93f444fde0262bf90af30e16fa0ad0ad44cb553c87339b23cd1c",
+    "requires_dist": []
+  },
+  {
+    "name": "pefile",
+    "version": "2023.2.7",
+    "file": "pefile-2023.2.7-py3-none-any.whl",
+    "sha256": "da185cd2af68c08a6cd4481f7325ed600a88f6a813bad9dea07ab3ef73d8d8d6",
+    "requires_dist": []
+  },
+  {
+    "name": "pyinstaller",
+    "version": "6.16.0",
+    "file": "pyinstaller-6.16.0-py3-none-win_amd64.whl",
+    "sha256": "bc10eb1a787f99fea613509f55b902fbd2d8b73ff5f51ff245ea29a481d97d41",
+    "requires_dist": [
+      "altgraph",
+      "importlib-metadata>=4.6; python_version < '3.10'",
+      "macholib>=1.8; sys_platform == 'darwin'",
+      "packaging>=22.0",
+      "pefile!=2024.8.26,>=2022.5.30; sys_platform == 'win32'",
+      "pyinstaller-hooks-contrib>=2025.8",
+      "pywin32-ctypes>=0.2.1; sys_platform == 'win32'",
+      "setuptools>=42.0.0",
+      "argcomplete; extra == 'completion'",
+      "execnet>=1.5.0; extra == 'hook-testing'",
+      "psutil; extra == 'hook-testing'",
+      "pytest>=2.7.3; extra == 'hook-testing'"
+    ]
+  },
+  {
+    "name": "pyinstaller-hooks-contrib",
+    "version": "2026.9",
+    "file": "pyinstaller_hooks_contrib-2026.9-py3-none-any.whl",
+    "sha256": "fb3e67dd64122561724c48ad0366ac9e8c16e638b63bf7d85de03bf3fdbf06c3",
+    "requires_dist": [
+      "importlib_metadata>=4.6; python_version < \"3.10\"",
+      "packaging>=22.0"
+    ]
+  },
+  {
+    "name": "pysbd",
+    "version": "0.3.4",
+    "file": "pysbd-0.3.4-py3-none-any.whl",
+    "sha256": "cd838939b7b0b185fcf86b0baf6636667dfb6e474743beeff878e9f42e022953",
+    "requires_dist": []
+  },
+  {
+    "name": "pywin32-ctypes",
+    "version": "0.2.3",
+    "file": "pywin32_ctypes-0.2.3-py3-none-any.whl",
+    "sha256": "8a1513379d709975552d202d942d9837758905c8d01eb82b8bcc30918929e7b8",
+    "requires_dist": []
+  },
+  {
+    "name": "PyYAML",
+    "version": "6.0.3",
+    "file": "pyyaml-6.0.3-cp312-cp312-win_amd64.whl",
+    "sha256": "5fcd34e47f6e0b794d17de1b4ff496c00986e1c83f7ab2fb8fcfe9616ff7477b",
+    "requires_dist": []
+  },
+  {
+    "name": "regex",
+    "version": "2026.9.29",
+    "file": "regex-2026.9.29-cp312-cp312-win_amd64.whl",
+    "sha256": "fdd88ed5e20b1bcdd234421e454962c971aa44b653bdb7f1ea9ef683e90fb649",
+    "requires_dist": []
+  },
+  {
+    "name": "sacremoses",
+    "version": "0.1.1",
+    "file": "sacremoses-0.1.1-py3-none-any.whl",
+    "sha256": "31e04c98b169bfd902144824d191825cd69220cdb4ae4bcf1ec58a7db5587b1a",
+    "requires_dist": [
+      "regex",
+      "click",
+      "joblib",
+      "tqdm"
+    ]
+  },
+  {
+    "name": "sentencepiece",
+    "version": "0.2.2",
+    "file": "sentencepiece-0.2.2-cp312-cp312-win_amd64.whl",
+    "sha256": "7c6e7bf684dc12145bfa685d3060beaea55139134ba848289bee514ed42e7383",
+    "requires_dist": [
+      "numpy; extra == \"numpy\"",
+      "protobuf; extra == \"protobuf\"",
+      "pytest; extra == \"test\"",
+      "numpy; extra == \"test\"",
+      "protobuf; extra == \"test\""
+    ]
+  },
+  {
+    "name": "setuptools",
+    "version": "84.2.1",
+    "file": "setuptools-84.2.1-py3-none-any.whl",
+    "sha256": "ca140b45d5325a9478f880e351484f62fef15f336462e449ca0c03c873d589c2",
+    "requires_dist": [
+      "pytest!=8.1.*,>=6; extra == \"test\"",
+      "virtualenv>=13.0.0; extra == \"test\"",
+      "wheel>=0.44.0; extra == \"test\"",
+      "pip>=19.1; extra == \"test\"",
+      "packaging>=26.3; extra == \"test\"",
+      "jaraco.envs>=2.2; extra == \"test\"",
+      "pytest-xdist>=3; extra == \"test\"",
+      "jaraco.path>=3.7.2; extra == \"test\"",
+      "build[virtualenv]>=1.0.3; extra == \"test\"",
+      "filelock>=3.4.0; extra == \"test\"",
+      "ini2toml[lite]>=0.14; extra == \"test\"",
+      "tomli-w>=1.0.0; extra == \"test\"",
+      "pytest-timeout; extra == \"test\"",
+      "pytest-perf; sys_platform != \"cygwin\" and extra == \"test\"",
+      "jaraco.develop>=7.21; (python_version >= \"3.9\" and sys_platform != \"cygwin\") and extra == \"test\"",
+      "pytest-home>=0.5; extra == \"test\"",
+      "pytest-subprocess; extra == \"test\"",
+      "pyproject-hooks!=1.1; extra == \"test\"",
+      "jaraco.test>=5.5; extra == \"test\"",
+      "sphinx>=3.5; extra == \"doc\"",
+      "jaraco.packaging>=9.3; extra == \"doc\"",
+      "rst.linker>=1.9; extra == \"doc\"",
+      "furo; extra == \"doc\"",
+      "sphinx-lint; extra == \"doc\"",
+      "jaraco.tidelift>=1.4; extra == \"doc\"",
+      "pygments-github-lexers==0.0.5; extra == \"doc\"",
+      "sphinx-favicon; extra == \"doc\"",
+      "sphinx-inline-tabs; extra == \"doc\"",
+      "sphinx-reredirects; extra == \"doc\"",
+      "sphinxcontrib-towncrier; extra == \"doc\"",
+      "sphinx-notfound-page<2,>=1; extra == \"doc\"",
+      "pyproject-hooks!=1.1; extra == \"doc\"",
+      "towncrier<24.7; extra == \"doc\"",
+      "packaging>=26.3; extra == \"core\"",
+      "more_itertools>=8.8; extra == \"core\"",
+      "jaraco.text>=3.7; extra == \"core\"",
+      "importlib_metadata>=6; python_version < \"3.10\" and extra == \"core\"",
+      "tomli>=2.0.1; python_version < \"3.11\" and extra == \"core\"",
+      "wheel>=0.43.0; extra == \"core\"",
+      "jaraco.functools>=4; extra == \"core\"",
+      "more_itertools; extra == \"core\"",
+      "pytest-checkdocs>=2.14; extra == \"check\"",
+      "pytest-ruff>=0.2.1; sys_platform != \"cygwin\" and extra == \"check\"",
+      "ruff>=0.13.0; sys_platform != \"cygwin\" and extra == \"check\"",
+      "pytest-cov; extra == \"cover\"",
+      "pytest-enabler>=3.4; extra == \"enabler\"",
+      "pytest-mypy>=1.0.1; platform_python_implementation != \"PyPy\" and extra == \"type\"",
+      "mypy==1.18.*; extra == \"type\"",
+      "importlib_metadata>=7.0.2; python_version < \"3.10\" and extra == \"type\"",
+      "jaraco.develop>=7.21; sys_platform != \"cygwin\" and extra == \"type\""
+    ]
+  },
+  {
+    "name": "tqdm",
+    "version": "4.70.1",
+    "file": "tqdm-4.70.1-py3-none-any.whl",
+    "sha256": "c293e525e6fef9c20e8728fd4612df02a0aa31bb5fe91ecd93e123b1b7bffa73",
+    "requires_dist": [
+      "colorama; platform_system == \"Windows\"",
+      "requests; extra == \"discord\"",
+      "envwrap; extra == \"discord\"",
+      "slack-sdk; extra == \"slack\"",
+      "envwrap; extra == \"slack\"",
+      "requests; extra == \"telegram\"",
+      "envwrap; extra == \"telegram\"",
+      "ipywidgets>=6; extra == \"notebook\""
+    ]
+  }
+]

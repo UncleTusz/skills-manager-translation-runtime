@@ -1,0 +1,103 @@
+[
+  {
+    "path": "CTranslate2-MIT.txt",
+    "url": "https://raw.githubusercontent.com/OpenNMT/CTranslate2/v4.8.3/LICENSE",
+    "sha256": "54aa79d9fe3c09e67a16dcd95b9e88676405a6ec174efda31036983cf7672ecb"
+  },
+  {
+    "path": "SentencePiece-Apache.txt",
+    "url": "https://raw.githubusercontent.com/google/sentencepiece/v0.2.2/LICENSE",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  {
+    "path": "SentencePiece-darts.txt",
+    "url": "https://raw.githubusercontent.com/google/sentencepiece/v0.2.2/third_party/darts_clone/LICENSE",
+    "sha256": "155f59997298ee336602c49f9c1110f268ac394ca2197eb02647a3555935ad52"
+  },
+  {
+    "path": "SentencePiece-esaxx.txt",
+    "url": "https://raw.githubusercontent.com/google/sentencepiece/v0.2.2/third_party/esaxx/LICENSE",
+    "sha256": "7c28553d1d3312d65fe309f76a22ebaf33a3d76c8c1e3b98a88ee4654ecb53db"
+  },
+  {
+    "path": "SentencePiece-protobuf.txt",
+    "url": "https://raw.githubusercontent.com/google/sentencepiece/v0.2.2/third_party/protobuf-lite/LICENSE",
+    "sha256": "6e5e117324afd944dcf67f36cf329843bc1a92229a8cd9bb573d7a83130fea7d"
+  },
+  {
+    "path": "oneDNN-Apache.txt",
+    "url": "https://raw.githubusercontent.com/oneapi-src/oneDNN/v3.1.1/LICENSE",
+    "sha256": "dd12452e1ae11e3282271aa5895d8175296b83e936a027209f9399d26a407d0f"
+  },
+  {
+    "path": "CT2-cpu_features.txt",
+    "url": "https://raw.githubusercontent.com/google/cpu_features/8a494eb1e158ec2050e5f699a504fbc9b896a43b/LICENSE",
+    "sha256": "af272c1b4dd08dd61d43e001d3134119d03ca7a2b057a64f7355fdf27fbea3dd"
+  },
+  {
+    "path": "CT2-spdlog.txt",
+    "url": "https://raw.githubusercontent.com/gabime/spdlog/76fb40d95455f249bd70824ecfcae7a8f0930fa3/LICENSE",
+    "sha256": "a7241a379cb98d37788f82c2fc2e484c3ae85dae881fd3406f0637644850926f"
+  },
+  {
+    "path": "CT2-ruy.txt",
+    "url": "https://raw.githubusercontent.com/google/ruy/363f252289fb7a1fba1703d99196524698cb884d/LICENSE",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  {
+    "path": "CT2-cxxopts.txt",
+    "url": "https://raw.githubusercontent.com/jarro2783/cxxopts/44380e5a44706ab7347f400698c703eb2a196202/LICENSE",
+    "sha256": "aa324fbe633a96546bebca975fbbab65caa175894bd00cfa13d7335e7363400c"
+  },
+  {
+    "path": "CT2-cutlass.txt",
+    "url": "https://raw.githubusercontent.com/NVIDIA/cutlass/bbe579a9e3beb6ea6626d9227ec32d0dae119a49/LICENSE.txt",
+    "sha256": "6fc6ad419e4d26571a14c7c4d26b65345865c20dd8686ddcf5e8673f54d3d233"
+  },
+  {
+    "path": "CT2-cccl.txt",
+    "url": "https://raw.githubusercontent.com/NVIDIA/cccl/b5fe509fd11a925f90d6495176707cc1184eed9d/LICENSE",
+    "sha256": "01b767dcd7d36f42efb608076741cf83f154a995e198028cb698aadc3a43b63b"
+  },
+  {
+    "path": "CT2-BS_thread_pool.hpp",
+    "url": "https://raw.githubusercontent.com/OpenNMT/CTranslate2/v4.8.3/third_party/BS_thread_pool.hpp",
+    "sha256": "ae01783f6373f78aceb0b1bd9bfa40ba8af728e48afdf3ff77b88380ba717143"
+  },
+  {
+    "path": "CT2-avx_mathfun.h",
+    "url": "https://raw.githubusercontent.com/OpenNMT/CTranslate2/v4.8.3/third_party/avx_mathfun.h",
+    "sha256": "0420c25e0a8f87d9e1827c006913c2455f694cc966d2163acd0c058d7321016f"
+  },
+  {
+    "path": "CT2-avx512_mathfun.h",
+    "url": "https://raw.githubusercontent.com/OpenNMT/CTranslate2/v4.8.3/third_party/avx512_mathfun.h",
+    "sha256": "e765a3997b0eb5bb3e332d2cba4b6a08e20caf163aac23a86ee735cdbe762afb"
+  },
+  {
+    "path": "CT2-neon_mathfun.h",
+    "url": "https://raw.githubusercontent.com/OpenNMT/CTranslate2/v4.8.3/third_party/neon_mathfun.h",
+    "sha256": "262dd1797602d28145e5ea046051eced2788303646894260655144972e0972b9"
+  },
+  {
+    "path": "OpenSSL-Apache.txt",
+    "url": "https://raw.githubusercontent.com/openssl/openssl/openssl-3.5.7/LICENSE.txt",
+    "sha256": "7d5450cb2d142651b8afa315b5f238efc805dad827d91ba367d8516bc9d49e7a"
+  },
+  {
+    "path": "libffi-MIT.txt",
+    "url": "https://raw.githubusercontent.com/libffi/libffi/v3.4.8/LICENSE",
+    "sha256": "67894089811f93fca47a76f85e017da6f8582d4ba0905963c6e0f1ad6df7a195"
+  },
+  {
+    "path": "model-CC-BY-4.0.txt",
+    "url": "https://raw.githubusercontent.com/creativecommons/creativecommons.org/main/docroot/legalcode/by_4.0.txt",
+    "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411"
+  },
+  {
+    "path": "Intel-LICENSE.txt",
+    "url": "https://pypi.org/project/intel-openmp/2025.3.0/",
+    "wheel_sha256": "8ff899d01a41b92ffe0e618b221ea633127d16df726086082d381c431c31339d",
+    "sha256": "febfb69a5b058f55892dc7f341108a9ca29d50e9fe85723a57eebbb826436958"
+  }
+]

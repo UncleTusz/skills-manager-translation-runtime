@@ -1,0 +1,12 @@
+.venv/
+build/
+dist/
+*.spec
+__pycache__/
+downloads/
+wheels/
+payload/
+payload-*/
+*-test.json
+*.zip
+*.argosmodel

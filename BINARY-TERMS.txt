@@ -1,0 +1,25 @@
+Independent translation component - binary distribution terms
+
+These terms apply to the separately downloaded translation component, not to
+the private Skill Manager application or its source code.
+
+Authored Worker/adapter/build source is MIT-licensed (see LICENSE). Third-party
+code retains its own license; this notice does not replace or narrow any rights
+granted by those open-source licenses.
+
+The component includes the unmodified Intel OpenMP redistributable
+_internal/ctranslate2/libiomp5md.dll. That Intel binary is not MIT-licensed.
+Installing or using the component signifies acceptance of its applicable Intel
+license, reproduced in licenses/upstream/Intel-LICENSE.txt. You must not reverse
+engineer, decompile or disassemble that Intel redistributable, except where
+applicable law overrides that restriction. This restriction does not extend to
+the authored MIT source or to separately licensed open-source components.
+
+Redistribution must comply with each included third-party license, including
+Intel's product-integration conditions and Microsoft's distributable-code terms
+reproduced in licenses/CPython-LICENSE.txt. No Intel certification or warranty is
+claimed. See NOTICE.md and the complete licenses directory before distribution.
+
+The unchanged OPUS-MT English-to-Chinese 1.9 model is CC-BY-4.0; its attribution
+and license accompany the component. Machine translations are unreviewed drafts,
+not a guarantee of semantic accuracy. This release remains a candidate.

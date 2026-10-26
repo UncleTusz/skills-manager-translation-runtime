@@ -1,0 +1,8 @@
+# Windows x64 CPython 3.12. Install the full lock with --no-deps.
+argostranslate==1.11.0
+pysbd==0.3.4
+ctranslate2==4.8.3
+packaging==26.3
+sacremoses==0.1.1
+sentencepiece==0.2.2
+pyinstaller==6.16.0
